@@ -1,0 +1,7 @@
+requests
+tqdm
+beautifulsoup4
+---------------------------------------------------
+pip install Pillow
+pip install bs4 tqdm
+pip install requests
